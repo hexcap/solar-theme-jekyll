@@ -1,1 +1,9 @@
 _site
+_posts
+_plugins
+_drafts
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+codekit-config.json
+node_modules
