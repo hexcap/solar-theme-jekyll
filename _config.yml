@@ -1,6 +1,6 @@
 name: hexcap
 url: http://hexcap.org
-description: An ncurses based hex editor for PCAP files 
+description: An interactive hex editor for PCAP files 
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
