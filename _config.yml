@@ -1,12 +1,12 @@
 name: hexcap
 url: http://hexcap.org
-description: An interactive hex editor for libpcap files 
+description: If tcpdump mated with a hex editor, their child might look like hexcap.
 
 markdown: redcarpet
 redcarpet:
   extensions: ["strikethrough"]
 permalink: /:year/:month/:day/:title/
 paginate: 10
-pygments: true
+#pygments: true
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']

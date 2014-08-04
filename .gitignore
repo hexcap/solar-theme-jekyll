@@ -7,3 +7,4 @@ _drafts
 *.sublime-workspace
 codekit-config.json
 node_modules
+*~
